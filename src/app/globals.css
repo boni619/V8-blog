@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border dark:border-dark-border;
+  }
+
+  body {
+    @apply bg-background dark:bg-dark-background text-text dark:text-dark-text font-sans antialiased;
+    font-size: 16px;
+    line-height: 1.7;
+  }
+
+  ::selection {
+    @apply bg-primary/20 text-primary;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.markdown-body h1 {
+  @apply text-2xl font-semibold mt-10 mb-4 tracking-tight;
+}
+
+.markdown-body h2 {
+  @apply text-xl font-semibold mt-8 mb-3 tracking-tight;
+}
+
+.markdown-body h3 {
+  @apply text-lg font-semibold mt-6 mb-2;
+}
+
+.markdown-body h4 {
+  @apply text-base font-semibold mt-6 mb-2;
+}
+
+.markdown-body p {
+  @apply mb-5 text-[15px] leading-relaxed;
+}
+
+.markdown-body a {
+  @apply text-primary underline underline-offset-2 decoration-primary/30 hover:decoration-primary transition-all;
+}
+
+.markdown-body code {
+  @apply font-mono text-sm bg-background dark:bg-dark-surface px-1.5 py-0.5 rounded border border-border/60 dark:border-dark-border/60;
+}
+
+.markdown-body pre {
+  @apply bg-background dark:bg-dark-surface rounded-lg p-4 overflow-x-auto border border-border/60 dark:border-dark-border/60 mb-5 text-sm;
+}
+
+.markdown-body pre code {
+  @apply bg-transparent border-0 p-0 text-sm leading-relaxed;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  @apply pl-6 mb-5;
+}
+
+.markdown-body li {
+  @apply mb-1 text-[15px] leading-relaxed;
+}
+
+.markdown-body blockquote {
+  @apply border-l-2 border-primary/30 pl-4 py-0.5 mb-5 text-text-secondary dark:text-dark-text italic text-[15px];
+}
+
+.markdown-body hr {
+  @apply my-10 border-border/40 dark:border-dark-border/40;
+}
+
+.markdown-body table {
+  @apply w-full border-collapse mb-5 text-sm;
+}
+
+.markdown-body th,
+.markdown-body td {
+  @apply border border-border/60 dark:border-dark-border/60 px-3 py-2 text-left;
+}
+
+.markdown-body th {
+  @apply bg-background dark:bg-dark-surface font-semibold;
+}
+
+.markdown-body img {
+  @apply rounded-lg my-6 w-full;
+}

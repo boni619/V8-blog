@@ -1,0 +1,1751 @@
+[
+  {
+    "id": "how-we-made-jsonstringify-more-than-twice-as-fast",
+    "title": "How we made JSON.stringify more than twice as fast",
+    "date": "04 August 2025",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/json-stringify",
+    "to": "blog/how-we-made-jsonstringify-more-than-twice-as-fast",
+    "tag": "internals"
+  },
+  {
+    "id": "speculative-optimizations-for-webassembly-using-deopts-and-inlining",
+    "title": "Speculative Optimizations for WebAssembly using Deopts and Inlining",
+    "date": "24 June 2025",
+    "tags": [
+      "WebAssembly",
+      "internals"
+    ],
+    "postUrl": "/blog/wasm-speculative-optimizations",
+    "to": "blog/speculative-optimizations-for-webassembly-using-deopts-and-inlining",
+    "tag": "webassembly"
+  },
+  {
+    "id": "giving-v8-a-headsup-faster-javascript-startup-with-explicit-compile-hints",
+    "title": "Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints",
+    "date": "29 April 2025",
+    "tags": [
+      "JavaScript"
+    ],
+    "postUrl": "/blog/explicit-compile-hints",
+    "to": "blog/giving-v8-a-headsup-faster-javascript-startup-with-explicit-compile-hints",
+    "tag": "javascript"
+  },
+  {
+    "id": "land-ahoy-leaving-the-sea-of-nodes",
+    "title": "Land ahoy: leaving the Sea of Nodes",
+    "date": "25 March 2025",
+    "tags": [
+      "JavaScript",
+      "internals"
+    ],
+    "postUrl": "/blog/leaving-the-sea-of-nodes",
+    "to": "blog/land-ahoy-leaving-the-sea-of-nodes",
+    "tag": "javascript"
+  },
+  {
+    "id": "turbocharging-v8-with-mutable-heap-numbers",
+    "title": "Turbocharging V8 with mutable heap numbers",
+    "date": "25 February 2025",
+    "tags": [
+      "JavaScript",
+      "benchmarks",
+      "internals"
+    ],
+    "postUrl": "/blog/mutable-heap-number",
+    "to": "blog/turbocharging-v8-with-mutable-heap-numbers",
+    "tag": "javascript"
+  },
+  {
+    "id": "introducing-the-webassembly-javascript-promise-integration-api",
+    "title": "Introducing the WebAssembly JavaScript Promise Integration API",
+    "date": "01 July 2024",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/jspi",
+    "to": "blog/introducing-the-webassembly-javascript-promise-integration-api",
+    "tag": "webassembly"
+  },
+  {
+    "id": "webassembly-jspi-has-a-new-api",
+    "title": "WebAssembly JSPI has a new API",
+    "date": "04 June 2024",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/jspi-newapi",
+    "to": "blog/webassembly-jspi-has-a-new-api",
+    "tag": "webassembly"
+  },
+  {
+    "id": "the-v8-sandbox",
+    "title": "The V8 Sandbox",
+    "date": "04 April 2024",
+    "tags": [
+      "security"
+    ],
+    "postUrl": "/blog/sandbox",
+    "to": "blog/the-v8-sandbox",
+    "tag": "security"
+  },
+  {
+    "id": "webassembly-jspi-is-going-to-origin-trial",
+    "title": "WebAssembly JSPI is going to origin trial",
+    "date": "06 March 2024",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/jspi-ot",
+    "to": "blog/webassembly-jspi-is-going-to-origin-trial",
+    "tag": "webassembly"
+  },
+  {
+    "id": "static-roots-objects-with-compiletime-constant-addresses",
+    "title": "Static Roots: Objects with Compile-Time Constant Addresses",
+    "date": "05 February 2024",
+    "tags": [
+      "JavaScript"
+    ],
+    "postUrl": "/blog/static-roots",
+    "to": "blog/static-roots-objects-with-compiletime-constant-addresses",
+    "tag": "javascript"
+  },
+  {
+    "id": "v8-is-faster-and-safer-than-ever",
+    "title": "V8 is Faster and Safer than Ever!",
+    "date": "14 December 2023",
+    "tags": [
+      "JavaScript",
+      "WebAssembly",
+      "security",
+      "benchmarks"
+    ],
+    "postUrl": "/blog/holiday-season-2023",
+    "to": "blog/v8-is-faster-and-safer-than-ever",
+    "tag": "javascript"
+  },
+  {
+    "id": "maglev-v8s-fastest-optimizing-jit",
+    "title": "Maglev - V8’s Fastest Optimizing JIT",
+    "date": "05 December 2023",
+    "tags": [
+      "JavaScript"
+    ],
+    "postUrl": "/blog/maglev",
+    "to": "blog/maglev-v8s-fastest-optimizing-jit",
+    "tag": "javascript"
+  },
+  {
+    "id": "a-new-way-to-bring-garbage-collected-programming-languages-efficiently-to-webassembly",
+    "title": "A new way to bring garbage collected programming languages efficiently to WebAssembly",
+    "date": "01 November 2023",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/wasm-gc-porting",
+    "to": "blog/a-new-way-to-bring-garbage-collected-programming-languages-efficiently-to-webassembly",
+    "tag": "webassembly"
+  },
+  {
+    "id": "controlflow-integrity-in-v8",
+    "title": "Control-flow Integrity in V8",
+    "date": "09 October 2023",
+    "tags": [
+      "security"
+    ],
+    "postUrl": "/blog/control-flow-integrity",
+    "to": "blog/controlflow-integrity-in-v8",
+    "tag": "security"
+  },
+  {
+    "id": "speeding-up-v8-heap-snapshots",
+    "title": "Speeding up V8 heap snapshots",
+    "date": "27 July 2023",
+    "tags": [
+      "memory",
+      "tools"
+    ],
+    "postUrl": "/blog/speeding-up-v8-heap-snapshots",
+    "to": "blog/speeding-up-v8-heap-snapshots",
+    "tag": "memory"
+  },
+  {
+    "id": "webassembly-tail-calls",
+    "title": "WebAssembly tail calls",
+    "date": "06 April 2023",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/wasm-tail-call",
+    "to": "blog/webassembly-tail-calls",
+    "tag": "webassembly"
+  },
+  {
+    "id": "pointer-compression-in-oilpan",
+    "title": "Pointer compression in Oilpan",
+    "date": "28 November 2022",
+    "tags": [
+      "internals",
+      "memory",
+      "cppgc"
+    ],
+    "postUrl": "/blog/oilpan-pointer-compression",
+    "to": "blog/pointer-compression-in-oilpan",
+    "tag": "internals"
+  },
+  {
+    "id": "discontinuing-release-blog-posts",
+    "title": "Discontinuing release blog posts",
+    "date": "17 June 2022",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/discontinuing-release-posts",
+    "to": "blog/discontinuing-release-blog-posts",
+    "tag": "release"
+  },
+  {
+    "id": "retrofitting-temporal-memory-safety-on-c",
+    "title": "Retrofitting temporal memory safety on C++",
+    "date": "14 June 2022",
+    "tags": [
+      "internals",
+      "memory",
+      "security"
+    ],
+    "postUrl": "/blog/retrofitting-temporal-memory-safety-on-c++",
+    "to": "blog/retrofitting-temporal-memory-safety-on-c",
+    "tag": "internals"
+  },
+  {
+    "id": "faster-initialization-of-instances-with-new-class-features",
+    "title": "Faster initialization of instances with new class features",
+    "date": "20 April 2022",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/faster-class-features",
+    "to": "blog/faster-initialization-of-instances-with-new-class-features",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v99",
+    "title": "V8 release v9.9",
+    "date": "31 January 2022",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-99",
+    "to": "blog/v8-release-v99",
+    "tag": "release"
+  },
+  {
+    "id": "oilpan-library",
+    "title": "Oilpan library",
+    "date": "10 November 2021",
+    "tags": [
+      "internals",
+      "memory",
+      "cppgc"
+    ],
+    "postUrl": "/blog/oilpan-library",
+    "to": "blog/oilpan-library",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v97",
+    "title": "V8 release v9.7",
+    "date": "05 November 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-97",
+    "to": "blog/v8-release-v97",
+    "tag": "release"
+  },
+  {
+    "id": "webassembly-dynamic-tiering-ready-to-try-in-chrome-96",
+    "title": "WebAssembly Dynamic Tiering ready to try in Chrome 96",
+    "date": "29 October 2021",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/wasm-dynamic-tiering",
+    "to": "blog/webassembly-dynamic-tiering-ready-to-try-in-chrome-96",
+    "tag": "webassembly"
+  },
+  {
+    "id": "v8-release-v96",
+    "title": "V8 release v9.6",
+    "date": "13 October 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-96",
+    "to": "blog/v8-release-v96",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v95",
+    "title": "V8 release v9.5",
+    "date": "21 September 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-95",
+    "to": "blog/v8-release-v95",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v94",
+    "title": "V8 release v9.4",
+    "date": "06 September 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-94",
+    "to": "blog/v8-release-v94",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v93",
+    "title": "V8 release v9.3",
+    "date": "09 August 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-93",
+    "to": "blog/v8-release-v93",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v92",
+    "title": "V8 release v9.2",
+    "date": "16 July 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-92",
+    "to": "blog/v8-release-v92",
+    "tag": "release"
+  },
+  {
+    "id": "sparkplug-a-nonoptimizing-javascript-compiler",
+    "title": "Sparkplug — a non-optimizing JavaScript compiler",
+    "date": "27 May 2021",
+    "tags": [
+      "JavaScript"
+    ],
+    "postUrl": "/blog/sparkplug",
+    "to": "blog/sparkplug-a-nonoptimizing-javascript-compiler",
+    "tag": "javascript"
+  },
+  {
+    "id": "short-builtin-calls",
+    "title": "Short builtin calls",
+    "date": "06 May 2021",
+    "tags": [
+      "JavaScript"
+    ],
+    "postUrl": "/blog/short-builtin-calls",
+    "to": "blog/short-builtin-calls",
+    "tag": "javascript"
+  },
+  {
+    "id": "v8-release-v91",
+    "title": "V8 release v9.1",
+    "date": "04 May 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-91",
+    "to": "blog/v8-release-v91",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v90",
+    "title": "V8 release v9.0",
+    "date": "17 March 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-90",
+    "to": "blog/v8-release-v90",
+    "tag": "release"
+  },
+  {
+    "id": "faster-releases",
+    "title": "Faster releases",
+    "date": "04 March 2021",
+    "tags": [],
+    "postUrl": "/blog/faster-releases",
+    "to": "blog/faster-releases",
+    "tag": null
+  },
+  {
+    "id": "super-fast-super-property-access",
+    "title": "Super fast super property access",
+    "date": "18 February 2021",
+    "tags": [
+      "JavaScript"
+    ],
+    "postUrl": "/blog/fast-super",
+    "to": "blog/super-fast-super-property-access",
+    "tag": "javascript"
+  },
+  {
+    "id": "faster-javascript-calls",
+    "title": "Faster JavaScript calls",
+    "date": "15 February 2021",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/adaptor-frame",
+    "to": "blog/faster-javascript-calls",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v89",
+    "title": "V8 release v8.9",
+    "date": "04 February 2021",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-89",
+    "to": "blog/v8-release-v89",
+    "tag": "release"
+  },
+  {
+    "id": "an-additional-nonbacktracking-regexp-engine",
+    "title": "An additional non-backtracking RegExp engine",
+    "date": "11 January 2021",
+    "tags": [
+      "internals",
+      "RegExp"
+    ],
+    "postUrl": "/blog/non-backtracking-regexp",
+    "to": "blog/an-additional-nonbacktracking-regexp-engine",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v87",
+    "title": "V8 release v8.7",
+    "date": "23 October 2020",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-87",
+    "to": "blog/v8-release-v87",
+    "tag": "release"
+  },
+  {
+    "id": "indicium-v8-runtime-tracer-tool",
+    "title": "Indicium: V8 runtime tracer tool",
+    "date": "01 October 2020",
+    "tags": [
+      "tools",
+      "system-analyzer"
+    ],
+    "postUrl": "/blog/system-analyzer",
+    "to": "blog/indicium-v8-runtime-tracer-tool",
+    "tag": "tools"
+  },
+  {
+    "id": "slack-tracking-in-v8",
+    "title": "Slack tracking in V8",
+    "date": "24 September 2020",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/slack-tracking",
+    "to": "blog/slack-tracking-in-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v86",
+    "title": "V8 release v8.6",
+    "date": "21 September 2020",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-86",
+    "to": "blog/v8-release-v86",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v85",
+    "title": "V8 release v8.5",
+    "date": "21 July 2020",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-85",
+    "to": "blog/v8-release-v85",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v84",
+    "title": "V8 release v8.4",
+    "date": "30 June 2020",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-84",
+    "to": "blog/v8-release-v84",
+    "tag": "release"
+  },
+  {
+    "id": "highperformance-garbage-collection-for-c",
+    "title": "High-performance garbage collection for C++",
+    "date": "26 May 2020",
+    "tags": [
+      "internals",
+      "memory",
+      "cppgc"
+    ],
+    "postUrl": "/blog/high-performance-cpp-gc",
+    "to": "blog/highperformance-garbage-collection-for-c",
+    "tag": "internals"
+  },
+  {
+    "id": "understanding-the-ecmascript-spec-part-4",
+    "title": "Understanding the ECMAScript spec, part 4",
+    "date": "19 May 2020",
+    "tags": [
+      "ECMAScript",
+      "Understanding ECMAScript"
+    ],
+    "postUrl": "/blog/understanding-ecmascript-part-4",
+    "to": "blog/understanding-the-ecmascript-spec-part-4",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "up-to-4gb-of-memory-in-webassembly",
+    "title": "Up to 4GB of memory in WebAssembly",
+    "date": "14 May 2020",
+    "tags": [
+      "WebAssembly",
+      "JavaScript",
+      "tooling"
+    ],
+    "postUrl": "/blog/4gb-wasm-memory",
+    "to": "blog/up-to-4gb-of-memory-in-webassembly",
+    "tag": "webassembly"
+  },
+  {
+    "id": "v8-release-v83",
+    "title": "V8 release v8.3",
+    "date": "04 May 2020",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-83",
+    "to": "blog/v8-release-v83",
+    "tag": "release"
+  },
+  {
+    "id": "whats-in-that-wasm-introducing-wasmdecompile",
+    "title": "What’s in that .wasm? Introducing: wasm-decompile",
+    "date": "27 April 2020",
+    "tags": [
+      "WebAssembly",
+      "tooling"
+    ],
+    "postUrl": "/blog/wasm-decompile",
+    "to": "blog/whats-in-that-wasm-introducing-wasmdecompile",
+    "tag": "webassembly"
+  },
+  {
+    "id": "understanding-the-ecmascript-spec-part-3",
+    "title": "Understanding the ECMAScript spec, part 3",
+    "date": "01 April 2020",
+    "tags": [
+      "ECMAScript",
+      "Understanding ECMAScript"
+    ],
+    "postUrl": "/blog/understanding-ecmascript-part-3",
+    "to": "blog/understanding-the-ecmascript-spec-part-3",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "pointer-compression-in-v8",
+    "title": "Pointer Compression in V8",
+    "date": "30 March 2020",
+    "tags": [
+      "internals",
+      "memory"
+    ],
+    "postUrl": "/blog/pointer-compression",
+    "to": "blog/pointer-compression-in-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "understanding-the-ecmascript-spec-part-2",
+    "title": "Understanding the ECMAScript spec, part 2",
+    "date": "02 March 2020",
+    "tags": [
+      "ECMAScript",
+      "Understanding ECMAScript"
+    ],
+    "postUrl": "/blog/understanding-ecmascript-part-2",
+    "to": "blog/understanding-the-ecmascript-spec-part-2",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "v8-release-v81",
+    "title": "V8 release v8.1",
+    "date": "25 February 2020",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-81",
+    "to": "blog/v8-release-v81",
+    "tag": "release"
+  },
+  {
+    "id": "understanding-the-ecmascript-spec-part-1",
+    "title": "Understanding the ECMAScript spec, part 1",
+    "date": "03 February 2020",
+    "tags": [
+      "ECMAScript",
+      "Understanding ECMAScript"
+    ],
+    "postUrl": "/blog/understanding-ecmascript-part-1",
+    "to": "blog/understanding-the-ecmascript-spec-part-1",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "v8-release-v80",
+    "title": "V8 release v8.0",
+    "date": "18 December 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-80",
+    "to": "blog/v8-release-v80",
+    "tag": "release"
+  },
+  {
+    "id": "outside-the-web-standalone-webassembly-binaries-using-emscripten",
+    "title": "Outside the web: standalone WebAssembly binaries using Emscripten",
+    "date": "21 November 2019",
+    "tags": [
+      "WebAssembly",
+      "tooling"
+    ],
+    "postUrl": "/blog/emscripten-standalone-wasm",
+    "to": "blog/outside-the-web-standalone-webassembly-binaries-using-emscripten",
+    "tag": "webassembly"
+  },
+  {
+    "id": "v8-release-v79",
+    "title": "V8 release v7.9",
+    "date": "20 November 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-79",
+    "to": "blog/v8-release-v79",
+    "tag": "release"
+  },
+  {
+    "id": "improving-v8-regular-expressions",
+    "title": "Improving V8 regular expressions",
+    "date": "04 October 2019",
+    "tags": [
+      "internals",
+      "RegExp"
+    ],
+    "postUrl": "/blog/regexp-tier-up",
+    "to": "blog/improving-v8-regular-expressions",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v78",
+    "title": "V8 release v7.8",
+    "date": "27 September 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-78",
+    "to": "blog/v8-release-v78",
+    "tag": "release"
+  },
+  {
+    "id": "a-lighter-v8",
+    "title": "A lighter V8",
+    "date": "12 September 2019",
+    "tags": [
+      "internals",
+      "memory",
+      "presentations"
+    ],
+    "postUrl": "/blog/v8-lite",
+    "to": "blog/a-lighter-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "the-story-of-a-v8-performance-cliff-in-react",
+    "title": "The story of a V8 performance cliff in React",
+    "date": "28 August 2019",
+    "tags": [
+      "internals",
+      "presentations"
+    ],
+    "postUrl": "/blog/react-cliff",
+    "to": "blog/the-story-of-a-v8-performance-cliff-in-react",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v77",
+    "title": "V8 release v7.7",
+    "date": "13 August 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-77",
+    "to": "blog/v8-release-v77",
+    "tag": "release"
+  },
+  {
+    "id": "emscripten-and-the-llvm-webassembly-backend",
+    "title": "Emscripten and the LLVM WebAssembly backend",
+    "date": "01 July 2019",
+    "tags": [
+      "WebAssembly",
+      "tooling"
+    ],
+    "postUrl": "/blog/emscripten-llvm-wasm",
+    "to": "blog/emscripten-and-the-llvm-webassembly-backend",
+    "tag": "webassembly"
+  },
+  {
+    "id": "the-cost-of-javascript-in-2019",
+    "title": "The cost of JavaScript in 2019",
+    "date": "25 June 2019",
+    "tags": [
+      "internals",
+      "parsing"
+    ],
+    "postUrl": "/blog/cost-of-javascript-2019",
+    "to": "blog/the-cost-of-javascript-in-2019",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v76",
+    "title": "V8 release v7.6",
+    "date": "19 June 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-76",
+    "to": "blog/v8-release-v76",
+    "tag": "release"
+  },
+  {
+    "id": "code-caching-for-webassembly-developers",
+    "title": "Code caching for WebAssembly developers",
+    "date": "17 June 2019",
+    "tags": [
+      "WebAssembly",
+      "internals"
+    ],
+    "postUrl": "/blog/wasm-code-caching",
+    "to": "blog/code-caching-for-webassembly-developers",
+    "tag": "webassembly"
+  },
+  {
+    "id": "v8-release-v75",
+    "title": "V8 release v7.5",
+    "date": "16 May 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-75",
+    "to": "blog/v8-release-v75",
+    "tag": "release"
+  },
+  {
+    "id": "faster-and-more-featurerich-internationalization-apis",
+    "title": "Faster and more feature-rich internationalization APIs",
+    "date": "25 April 2019",
+    "tags": [
+      "ECMAScript",
+      "Intl"
+    ],
+    "postUrl": "/blog/intl",
+    "to": "blog/faster-and-more-featurerich-internationalization-apis",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "a-year-with-spectre-a-v8-perspective",
+    "title": "A year with Spectre: a V8 perspective",
+    "date": "23 April 2019",
+    "tags": [
+      "security"
+    ],
+    "postUrl": "/blog/spectre",
+    "to": "blog/a-year-with-spectre-a-v8-perspective",
+    "tag": "security"
+  },
+  {
+    "id": "blazingly-fast-parsing-part-2-lazy-parsing",
+    "title": "Blazingly fast parsing, part 2: lazy parsing",
+    "date": "15 April 2019",
+    "tags": [
+      "internals",
+      "parsing"
+    ],
+    "postUrl": "/blog/preparser",
+    "to": "blog/blazingly-fast-parsing-part-2-lazy-parsing",
+    "tag": "internals"
+  },
+  {
+    "id": "code-caching-for-javascript-developers",
+    "title": "Code caching for JavaScript developers",
+    "date": "08 April 2019",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/code-caching-for-devs",
+    "to": "blog/code-caching-for-javascript-developers",
+    "tag": "internals"
+  },
+  {
+    "id": "blazingly-fast-parsing-part-1-optimizing-the-scanner",
+    "title": "Blazingly fast parsing, part 1: optimizing the scanner",
+    "date": "25 March 2019",
+    "tags": [
+      "internals",
+      "parsing"
+    ],
+    "postUrl": "/blog/scanner",
+    "to": "blog/blazingly-fast-parsing-part-1-optimizing-the-scanner",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v74",
+    "title": "V8 release v7.4",
+    "date": "22 March 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-74",
+    "to": "blog/v8-release-v74",
+    "tag": "release"
+  },
+  {
+    "id": "jitless-v8",
+    "title": "JIT-less V8",
+    "date": "13 March 2019",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/jitless",
+    "to": "blog/jitless-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v73",
+    "title": "V8 release v7.3",
+    "date": "07 February 2019",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-73",
+    "to": "blog/v8-release-v73",
+    "tag": "release"
+  },
+  {
+    "id": "trash-talk-the-orinoco-garbage-collector",
+    "title": "Trash talk: the Orinoco garbage collector",
+    "date": "03 January 2019",
+    "tags": [
+      "internals",
+      "memory",
+      "presentations"
+    ],
+    "postUrl": "/blog/trash-talk",
+    "to": "blog/trash-talk-the-orinoco-garbage-collector",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v72",
+    "title": "V8 release v7.2",
+    "date": "18 December 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-72",
+    "to": "blog/v8-release-v72",
+    "tag": "release"
+  },
+  {
+    "id": "speeding-up-spread-elements",
+    "title": "Speeding up spread elements",
+    "date": "04 December 2018",
+    "tags": [
+      "ECMAScript",
+      "benchmarks"
+    ],
+    "postUrl": "/blog/spread-elements",
+    "to": "blog/speeding-up-spread-elements",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "faster-async-functions-and-promises",
+    "title": "Faster async functions and promises",
+    "date": "12 November 2018",
+    "tags": [
+      "ECMAScript",
+      "benchmarks",
+      "presentations"
+    ],
+    "postUrl": "/blog/fast-async",
+    "to": "blog/faster-async-functions-and-promises",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "v8-release-v71",
+    "title": "V8 release v7.1",
+    "date": "31 October 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-71",
+    "to": "blog/v8-release-v71",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v70",
+    "title": "V8 release v7.0",
+    "date": "15 October 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-70",
+    "to": "blog/v8-release-v70",
+    "tag": "release"
+  },
+  {
+    "id": "getting-things-sorted-in-v8",
+    "title": "Getting things sorted in V8",
+    "date": "28 September 2018",
+    "tags": [
+      "ECMAScript",
+      "internals"
+    ],
+    "postUrl": "/blog/array-sort",
+    "to": "blog/getting-things-sorted-in-v8",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "improving-dataview-performance-in-v8",
+    "title": "Improving DataView performance in V8",
+    "date": "18 September 2018",
+    "tags": [
+      "ECMAScript",
+      "benchmarks"
+    ],
+    "postUrl": "/blog/dataview",
+    "to": "blog/improving-dataview-performance-in-v8",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "celebrating-10-years-of-v8",
+    "title": "Celebrating 10 years of V8",
+    "date": "11 September 2018",
+    "tags": [
+      "benchmarks"
+    ],
+    "postUrl": "/blog/10-years",
+    "to": "blog/celebrating-10-years-of-v8",
+    "tag": "benchmarks"
+  },
+  {
+    "id": "liftoff-a-new-baseline-compiler-for-webassembly-in-v8",
+    "title": "Liftoff: a new baseline compiler for WebAssembly in V8",
+    "date": "20 August 2018",
+    "tags": [
+      "WebAssembly",
+      "internals"
+    ],
+    "postUrl": "/blog/liftoff",
+    "to": "blog/liftoff-a-new-baseline-compiler-for-webassembly-in-v8",
+    "tag": "webassembly"
+  },
+  {
+    "id": "embedded-builtins",
+    "title": "Embedded builtins",
+    "date": "14 August 2018",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/embedded-builtins",
+    "to": "blog/embedded-builtins",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v69",
+    "title": "V8 release v6.9",
+    "date": "07 August 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-69",
+    "to": "blog/v8-release-v69",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v68",
+    "title": "V8 release v6.8",
+    "date": "21 June 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-68",
+    "to": "blog/v8-release-v68",
+    "tag": "release"
+  },
+  {
+    "id": "concurrent-marking-in-v8",
+    "title": "Concurrent marking in V8",
+    "date": "11 June 2018",
+    "tags": [
+      "internals",
+      "memory"
+    ],
+    "postUrl": "/blog/concurrent-marking",
+    "to": "blog/concurrent-marking-in-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v67",
+    "title": "V8 release v6.7",
+    "date": "04 May 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-67",
+    "to": "blog/v8-release-v67",
+    "tag": "release"
+  },
+  {
+    "id": "adding-bigints-to-v8",
+    "title": "Adding BigInts to V8",
+    "date": "02 May 2018",
+    "tags": [
+      "ECMAScript"
+    ],
+    "postUrl": "/blog/bigint",
+    "to": "blog/adding-bigints-to-v8",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "improved-code-caching",
+    "title": "Improved code caching",
+    "date": "24 April 2018",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/improved-code-caching",
+    "to": "blog/improved-code-caching",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v66",
+    "title": "V8 release v6.6",
+    "date": "27 March 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-66",
+    "to": "blog/v8-release-v66",
+    "tag": "release"
+  },
+  {
+    "id": "background-compilation",
+    "title": "Background compilation",
+    "date": "26 March 2018",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/background-compilation",
+    "to": "blog/background-compilation",
+    "tag": "internals"
+  },
+  {
+    "id": "tracing-from-js-to-the-dom-and-back-again",
+    "title": "Tracing from JS to the DOM and back again",
+    "date": "01 March 2018",
+    "tags": [
+      "internals",
+      "memory"
+    ],
+    "postUrl": "/blog/tracing-js-dom",
+    "to": "blog/tracing-from-js-to-the-dom-and-back-again",
+    "tag": "internals"
+  },
+  {
+    "id": "lazy-deserialization",
+    "title": "Lazy deserialization",
+    "date": "12 February 2018",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/lazy-deserialization",
+    "to": "blog/lazy-deserialization",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v65",
+    "title": "V8 release v6.5",
+    "date": "01 February 2018",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-65",
+    "to": "blog/v8-release-v65",
+    "tag": "release"
+  },
+  {
+    "id": "optimizing-hash-tables-hiding-the-hash-code",
+    "title": "Optimizing hash tables: hiding the hash code",
+    "date": "29 January 2018",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/hash-code",
+    "to": "blog/optimizing-hash-tables-hiding-the-hash-code",
+    "tag": "internals"
+  },
+  {
+    "id": "chrome-welcomes-speedometer-20",
+    "title": "Chrome welcomes Speedometer 2.0!",
+    "date": "24 January 2018",
+    "tags": [
+      "benchmarks"
+    ],
+    "postUrl": "/blog/speedometer-2",
+    "to": "blog/chrome-welcomes-speedometer-20",
+    "tag": "benchmarks"
+  },
+  {
+    "id": "v8-release-v64",
+    "title": "V8 release v6.4",
+    "date": "19 December 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-64",
+    "to": "blog/v8-release-v64",
+    "tag": "release"
+  },
+  {
+    "id": "javascript-code-coverage",
+    "title": "JavaScript code coverage",
+    "date": "13 December 2017",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/javascript-code-coverage",
+    "to": "blog/javascript-code-coverage",
+    "tag": "internals"
+  },
+  {
+    "id": "orinoco-young-generation-garbage-collection",
+    "title": "Orinoco: young generation garbage collection",
+    "date": "29 November 2017",
+    "tags": [
+      "internals",
+      "memory"
+    ],
+    "postUrl": "/blog/orinoco-parallel-scavenger",
+    "to": "blog/orinoco-young-generation-garbage-collection",
+    "tag": "internals"
+  },
+  {
+    "id": "taming-architecture-complexity-in-v8-the-codestubassembler",
+    "title": "Taming architecture complexity in V8 — the CodeStubAssembler",
+    "date": "16 November 2017",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/csa",
+    "to": "blog/taming-architecture-complexity-in-v8-the-codestubassembler",
+    "tag": "internals"
+  },
+  {
+    "id": "announcing-the-web-tooling-benchmark",
+    "title": "Announcing the Web Tooling Benchmark",
+    "date": "06 November 2017",
+    "tags": [
+      "benchmarks",
+      "Node.js"
+    ],
+    "postUrl": "/blog/web-tooling-benchmark",
+    "to": "blog/announcing-the-web-tooling-benchmark",
+    "tag": "benchmarks"
+  },
+  {
+    "id": "v8-release-v63",
+    "title": "V8 release v6.3",
+    "date": "25 October 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-63",
+    "to": "blog/v8-release-v63",
+    "tag": "release"
+  },
+  {
+    "id": "optimizing-es2015-proxies-in-v8",
+    "title": "Optimizing ES2015 proxies in V8",
+    "date": "05 October 2017",
+    "tags": [
+      "ECMAScript",
+      "benchmarks",
+      "internals"
+    ],
+    "postUrl": "/blog/optimizing-proxies",
+    "to": "blog/optimizing-es2015-proxies-in-v8",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "an-internship-on-laziness-lazy-unlinking-of-deoptimized-functions",
+    "title": "An internship on laziness: lazy unlinking of deoptimized functions",
+    "date": "04 October 2017",
+    "tags": [
+      "memory",
+      "internals"
+    ],
+    "postUrl": "/blog/lazy-unlinking",
+    "to": "blog/an-internship-on-laziness-lazy-unlinking-of-deoptimized-functions",
+    "tag": "memory"
+  },
+  {
+    "id": "temporarily-disabling-escape-analysis",
+    "title": "Temporarily disabling escape analysis",
+    "date": "22 September 2017",
+    "tags": [
+      "security"
+    ],
+    "postUrl": "/blog/disabling-escape-analysis",
+    "to": "blog/temporarily-disabling-escape-analysis",
+    "tag": "security"
+  },
+  {
+    "id": "elements-kinds-in-v8",
+    "title": "Elements kinds in V8",
+    "date": "12 September 2017",
+    "tags": [
+      "internals",
+      "presentations"
+    ],
+    "postUrl": "/blog/elements-kinds",
+    "to": "blog/elements-kinds-in-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v62",
+    "title": "V8 release v6.2",
+    "date": "11 September 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-62",
+    "to": "blog/v8-release-v62",
+    "tag": "release"
+  },
+  {
+    "id": "fast-properties-in-v8",
+    "title": "Fast properties in V8",
+    "date": "30 August 2017",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/fast-properties",
+    "to": "blog/fast-properties-in-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "about-that-hash-flooding-vulnerability-in-nodejs",
+    "title": "About that hash flooding vulnerability in Node.js…",
+    "date": "11 August 2017",
+    "tags": [
+      "security"
+    ],
+    "postUrl": "/blog/hash-flooding",
+    "to": "blog/about-that-hash-flooding-vulnerability-in-nodejs",
+    "tag": "security"
+  },
+  {
+    "id": "v8-release-v61",
+    "title": "V8 release v6.1",
+    "date": "03 August 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-61",
+    "to": "blog/v8-release-v61",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v60",
+    "title": "V8 release v6.0",
+    "date": "09 June 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-60",
+    "to": "blog/v8-release-v60",
+    "tag": "release"
+  },
+  {
+    "id": "launching-ignition-and-turbofan",
+    "title": "Launching Ignition and TurboFan",
+    "date": "15 May 2017",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/launching-ignition-and-turbofan",
+    "to": "blog/launching-ignition-and-turbofan",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v59",
+    "title": "V8 release v5.9",
+    "date": "27 April 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-59",
+    "to": "blog/v8-release-v59",
+    "tag": "release"
+  },
+  {
+    "id": "retiring-octane",
+    "title": "Retiring Octane",
+    "date": "12 April 2017",
+    "tags": [
+      "benchmarks"
+    ],
+    "postUrl": "/blog/retiring-octane",
+    "to": "blog/retiring-octane",
+    "tag": "benchmarks"
+  },
+  {
+    "id": "v8-release-v58",
+    "title": "V8 release v5.8",
+    "date": "20 March 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-58",
+    "to": "blog/v8-release-v58",
+    "tag": "release"
+  },
+  {
+    "id": "fast-forin-in-v8",
+    "title": "Fast for-in in V8",
+    "date": "01 March 2017",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/fast-for-in",
+    "to": "blog/fast-forin-in-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "highperformance-es2015-and-beyond",
+    "title": "High-performance ES2015 and beyond",
+    "date": "17 February 2017",
+    "tags": [
+      "ECMAScript"
+    ],
+    "postUrl": "/blog/high-performance-es2015",
+    "to": "blog/highperformance-es2015-and-beyond",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "help-us-test-the-future-of-v8",
+    "title": "Help us test the future of V8!",
+    "date": "14 February 2017",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/test-the-future",
+    "to": "blog/help-us-test-the-future-of-v8",
+    "tag": "internals"
+  },
+  {
+    "id": "one-small-step-for-chrome-one-giant-heap-for-v8",
+    "title": "One small step for Chrome, one giant heap for V8",
+    "date": "09 February 2017",
+    "tags": [
+      "memory"
+    ],
+    "postUrl": "/blog/heap-size-limit",
+    "to": "blog/one-small-step-for-chrome-one-giant-heap-for-v8",
+    "tag": "memory"
+  },
+  {
+    "id": "v8-release-v57",
+    "title": "V8 release v5.7",
+    "date": "06 February 2017",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-57",
+    "to": "blog/v8-release-v57",
+    "tag": "release"
+  },
+  {
+    "id": "speeding-up-v8-regular-expressions",
+    "title": "Speeding up V8 regular expressions",
+    "date": "10 January 2017",
+    "tags": [
+      "internals",
+      "RegExp"
+    ],
+    "postUrl": "/blog/speeding-up-regular-expressions",
+    "to": "blog/speeding-up-v8-regular-expressions",
+    "tag": "internals"
+  },
+  {
+    "id": "how-v8-measures-realworld-performance",
+    "title": "How V8 measures real-world performance",
+    "date": "21 December 2016",
+    "tags": [
+      "benchmarks"
+    ],
+    "postUrl": "/blog/real-world-performance",
+    "to": "blog/how-v8-measures-realworld-performance",
+    "tag": "benchmarks"
+  },
+  {
+    "id": "v8-nodejs",
+    "title": "V8 ❤️ Node.js",
+    "date": "15 December 2016",
+    "tags": [
+      "Node.js"
+    ],
+    "postUrl": "/blog/v8-nodejs",
+    "to": "blog/v8-nodejs",
+    "tag": "nodejs"
+  },
+  {
+    "id": "v8-release-v56",
+    "title": "V8 release v5.6",
+    "date": "02 December 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-56",
+    "to": "blog/v8-release-v56",
+    "tag": "release"
+  },
+  {
+    "id": "webassembly-browser-preview",
+    "title": "WebAssembly browser preview",
+    "date": "31 October 2016",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/webassembly-browser-preview",
+    "to": "blog/webassembly-browser-preview",
+    "tag": "webassembly"
+  },
+  {
+    "id": "v8-release-v55",
+    "title": "V8 release v5.5",
+    "date": "24 October 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-55",
+    "to": "blog/v8-release-v55",
+    "tag": "release"
+  },
+  {
+    "id": "optimizing-v8-memory-consumption",
+    "title": "Optimizing V8 memory consumption",
+    "date": "07 October 2016",
+    "tags": [
+      "memory",
+      "benchmarks"
+    ],
+    "postUrl": "/blog/optimizing-v8-memory",
+    "to": "blog/optimizing-v8-memory-consumption",
+    "tag": "memory"
+  },
+  {
+    "id": "v8-release-v54",
+    "title": "V8 release v5.4",
+    "date": "09 September 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-54",
+    "to": "blog/v8-release-v54",
+    "tag": "release"
+  },
+  {
+    "id": "firing-up-the-ignition-interpreter",
+    "title": "Firing up the Ignition interpreter",
+    "date": "23 August 2016",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/ignition-interpreter",
+    "to": "blog/firing-up-the-ignition-interpreter",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-at-the-blinkon-6-conference",
+    "title": "V8 at the BlinkOn 6 conference",
+    "date": "21 July 2016",
+    "tags": [
+      "presentations"
+    ],
+    "postUrl": "/blog/blinkon-6",
+    "to": "blog/v8-at-the-blinkon-6-conference",
+    "tag": "presentations"
+  },
+  {
+    "id": "v8-release-v53",
+    "title": "V8 release v5.3",
+    "date": "18 July 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-53",
+    "to": "blog/v8-release-v53",
+    "tag": "release"
+  },
+  {
+    "id": "v8-release-v52",
+    "title": "V8 release v5.2",
+    "date": "04 June 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-52",
+    "to": "blog/v8-release-v52",
+    "tag": "release"
+  },
+  {
+    "id": "es2015-es2016-and-beyond",
+    "title": "ES2015, ES2016, and beyond",
+    "date": "29 April 2016",
+    "tags": [
+      "ECMAScript"
+    ],
+    "postUrl": "/blog/modern-javascript",
+    "to": "blog/es2015-es2016-and-beyond",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "v8-release-v51",
+    "title": "V8 release v5.1",
+    "date": "23 April 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-51",
+    "to": "blog/v8-release-v51",
+    "tag": "release"
+  },
+  {
+    "id": "jank-busters-part-two-orinoco",
+    "title": "Jank Busters Part Two: Orinoco",
+    "date": "12 April 2016",
+    "tags": [
+      "internals",
+      "memory"
+    ],
+    "postUrl": "/blog/orinoco",
+    "to": "blog/jank-busters-part-two-orinoco",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v50",
+    "title": "V8 release v5.0",
+    "date": "15 March 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-50",
+    "to": "blog/v8-release-v50",
+    "tag": "release"
+  },
+  {
+    "id": "experimental-support-for-webassembly-in-v8",
+    "title": "Experimental support for WebAssembly in V8",
+    "date": "15 March 2016",
+    "tags": [
+      "WebAssembly"
+    ],
+    "postUrl": "/blog/webassembly-experimental",
+    "to": "blog/experimental-support-for-webassembly-in-v8",
+    "tag": "webassembly"
+  },
+  {
+    "id": "regexp-lookbehind-assertions",
+    "title": "RegExp lookbehind assertions",
+    "date": "26 February 2016",
+    "tags": [
+      "ECMAScript",
+      "RegExp"
+    ],
+    "postUrl": "/blog/regexp-lookbehind-assertions",
+    "to": "blog/regexp-lookbehind-assertions",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "v8-extras",
+    "title": "V8 extras",
+    "date": "04 February 2016",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/v8-extras",
+    "to": "blog/v8-extras",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v49",
+    "title": "V8 release v4.9",
+    "date": "26 January 2016",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-49",
+    "to": "blog/v8-release-v49",
+    "tag": "release"
+  },
+  {
+    "id": "theres-mathrandom-and-then-theres-mathrandom",
+    "title": "There’s Math.random(), and then there’s Math.random()",
+    "date": "17 December 2015",
+    "tags": [
+      "ECMAScript",
+      "internals"
+    ],
+    "postUrl": "/blog/math-random",
+    "to": "blog/theres-mathrandom-and-then-theres-mathrandom",
+    "tag": "ecmascript"
+  },
+  {
+    "id": "v8-release-v48",
+    "title": "V8 release v4.8",
+    "date": "25 November 2015",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-48",
+    "to": "blog/v8-release-v48",
+    "tag": "release"
+  },
+  {
+    "id": "jank-busters-part-one",
+    "title": "Jank Busters Part One",
+    "date": "30 October 2015",
+    "tags": [
+      "memory"
+    ],
+    "postUrl": "/blog/jank-busters",
+    "to": "blog/jank-busters-part-one",
+    "tag": "memory"
+  },
+  {
+    "id": "v8-release-v47",
+    "title": "V8 release v4.7",
+    "date": "14 October 2015",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-47",
+    "to": "blog/v8-release-v47",
+    "tag": "release"
+  },
+  {
+    "id": "custom-startup-snapshots",
+    "title": "Custom startup snapshots",
+    "date": "25 September 2015",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/custom-startup-snapshots",
+    "to": "blog/custom-startup-snapshots",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v46",
+    "title": "V8 release v4.6",
+    "date": "28 August 2015",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-46",
+    "to": "blog/v8-release-v46",
+    "tag": "release"
+  },
+  {
+    "id": "getting-garbage-collection-for-free",
+    "title": "Getting garbage collection for free",
+    "date": "07 August 2015",
+    "tags": [
+      "internals",
+      "memory"
+    ],
+    "postUrl": "/blog/free-garbage-collection",
+    "to": "blog/getting-garbage-collection-for-free",
+    "tag": "internals"
+  },
+  {
+    "id": "code-caching",
+    "title": "Code caching",
+    "date": "27 July 2015",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/code-caching",
+    "to": "blog/code-caching",
+    "tag": "internals"
+  },
+  {
+    "id": "v8-release-v45",
+    "title": "V8 release v4.5",
+    "date": "17 July 2015",
+    "tags": [
+      "release"
+    ],
+    "postUrl": "/blog/v8-release-45",
+    "to": "blog/v8-release-v45",
+    "tag": "release"
+  },
+  {
+    "id": "digging-into-the-turbofan-jit",
+    "title": "Digging into the TurboFan JIT",
+    "date": "13 July 2015",
+    "tags": [
+      "internals"
+    ],
+    "postUrl": "/blog/turbofan-jit",
+    "to": "blog/digging-into-the-turbofan-jit",
+    "tag": "internals"
+  },
+  {
+    "id": "hello-world",
+    "title": "Hello, world!",
+    "date": "10 July 2015",
+    "tags": [],
+    "postUrl": "/blog/hello-world",
+    "to": "blog/hello-world",
+    "tag": null
+  }
+]
