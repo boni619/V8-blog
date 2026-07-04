@@ -1,5 +1,7 @@
 # Vue V8 Blog Replica - Building with Vue.js
 
+![Alternative Text](https://github.com/boni619/V8-blog/blob/main/a6cfe6e7-37a6-4e2c-b070-e53b8628a99d.png) 
+
 Welcome to Vue V8 Blog Replica, an impressive web application that mirrors the aesthetics and functionalities of the official V8 blog. This project is built using Vue.js and aims to provide developers, JavaScript enthusiasts, and web performance aficionados with an immersive experience to explore V8 engine updates, performance optimizations, and other insightful articles.
 
 ## Features
